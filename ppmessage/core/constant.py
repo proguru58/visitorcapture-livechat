@@ -155,7 +155,7 @@ TASK_STATUS = Enum([
     "PROCESSED",
     "CANCELLED",
     "ACKED"
-]) 
+])
 
 MESSAGE_STATUS = Enum([
     "PENDING",
@@ -283,7 +283,7 @@ APNS_TITLE = {
         "ACCEPT": "好友邀请通过消息",
         "DG_INVITED": "加入群聊消息"
     },
-    
+
     "EN_US" : {
         "UNKNOWN": "unknown message type",
         "TXT": "text message",
@@ -360,7 +360,7 @@ IOSPUSH_PORT = 8932
 PORTAL_PORT = 80
 if DEV_MODE:
     PORTAL_PORT = 8080
-    
+
 PPCOM_PORT = 8934
 
 STA_PORT = 8935
@@ -435,8 +435,8 @@ SERVICE_USER_STATUS = Enum([
 ])
 
 WEB_TITLE = {
-    "user": "PPMessage | Open Source Plug and Play Customer Communication Message Platform - ppmessage.com",
-    "admin": "PPMessage | Open Source Plug and Play Customer Communication Message Platform - ppmessage.com",
+    "user": "Visitor Capture Live Chat | Customer Communication Message Platform - visitorcapture.com",
+    "admin": "Visitor Capture Live Chat | Customer Communication Message Platform - visitorcapture.com",
 }
 
 USER_NAME = {
