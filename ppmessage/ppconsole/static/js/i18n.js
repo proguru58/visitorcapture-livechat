@@ -90,7 +90,7 @@ angular.module("this_app.i18n", ["pascalprecht.translate"])
                 EXIT_APP_TAG: "Log Out",
                 SIGNUP_TAG: "Sign Up",
                 LOGIN_TAG: "Sign In",
-                SLOGAN: "Open Source Plug & Play Enterprise Message Communication Platform",
+                SLOGAN: "Plug & Play Enterprise Message Communication Platform",
 
                 APPS: "Apps",
 
@@ -786,7 +786,7 @@ angular.module("this_app.i18n", ["pascalprecht.translate"])
                     COPY_TO_CLIPBOARD: "复制到剪贴板",
                     PREVIEW: "马上看看",
                     URL_LINK: "生成链接",
-                    DEMO_DEPLOY_TO: "PPMessage已经部署在下面的网页链接上",
+                    DEMO_DEPLOY_TO: "VisitorCapture已经部署在下面的网页链接上",
                     COPY_CODE_TO_BODY: "复制下面的代码并置于<body></body>元素之间"
                 },
 
