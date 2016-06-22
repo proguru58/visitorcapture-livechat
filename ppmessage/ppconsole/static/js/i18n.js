@@ -1,13 +1,13 @@
 /*
  *  guijin.ding@yvertical.com
- *  Copyright (c) 2010-2015 
+ *  Copyright (c) 2010-2015
  */
 
 angular.module("this_app.i18n", ["pascalprecht.translate"])
     .constant("yvTransTags", {
         en: {
 
-            COPYRIGHT_PPMESSAGE: "PPMESSAGE.",
+            COPYRIGHT_PPMESSAGE: "VISITOR CAPTURE.",
 
             global: {
                 DELETE_TEAM_TAG: "Delete Team",
@@ -48,7 +48,7 @@ angular.module("this_app.i18n", ["pascalprecht.translate"])
                 SIGNUP_TAG: "Sign Up",
                 SIGNIN_TAG: "Sign In",
                 RESET_PASSWORD_TAG: "Reset Password",
-                
+
                 CREATE_TEAM_TAG: "Create Team",
                 START_TAG: "Start",
                 FULLNAME_TAG: "Full Name",
@@ -76,7 +76,7 @@ angular.module("this_app.i18n", ["pascalprecht.translate"])
                 SEND_NEW_PASSWORD_SUCCESS_TAG: "Success to send new password to your email.",
                 SEND_NEW_PASSWORD_FAILED_TAG: "Fail to send new password to your email.",
             },
-            
+
             app: {
                 MY_PROFILE_TAG: "My Profile",
                 LOGOUT_TAG: "Logout",
@@ -93,7 +93,7 @@ angular.module("this_app.i18n", ["pascalprecht.translate"])
                 SLOGAN: "Open Source Plug & Play Enterprise Message Communication Platform",
 
                 APPS: "Apps",
-                
+
             },
 
             calendar:{
@@ -135,7 +135,7 @@ angular.module("this_app.i18n", ["pascalprecht.translate"])
             },
 
             signup: {
-                                
+
             },
 
             createaccount: {
@@ -156,7 +156,7 @@ angular.module("this_app.i18n", ["pascalprecht.translate"])
                 LOGIN_PASSWORD_TAG: "Password",
                 LOGIN_FORGET_PASSWORD_TAG: "Forget password?",
                 LOGIN_REGISTER_TAG: "Register"
-                
+
             },
 
             changepassword: {
@@ -181,7 +181,7 @@ angular.module("this_app.i18n", ["pascalprecht.translate"])
                     ACCOUT_CONFIG_TAG: "Account settings",
                     ADVANCED_CONFIG_TAG: "Advanced settings"
                 },
-                
+
                 profile: {
                     UPDATE_SUCCESSFULLY_TAG: "Profile updated successfully.",
                     UPDATE_FAILED_TAG: "Profile updated failed.",
@@ -218,14 +218,14 @@ angular.module("this_app.i18n", ["pascalprecht.translate"])
                 },
 
                 payment: {
-                    
+
                 },
 
                 pwechat: {
-                    
+
                 },
             },
-            
+
             application: {
                 profile: {
                     UPDATE_SUCCESSFULLY_TAG: "Profile updated successfully.",
@@ -255,7 +255,7 @@ angular.module("this_app.i18n", ["pascalprecht.translate"])
                     FIND_PASSWORD_TAG: "Find password",
                     LOGIN_EMAIL_TAG: "Email",
                     FIND_TAG: "Send email",
-                    
+
                 },
 
                 welcome: {
@@ -318,7 +318,7 @@ angular.module("this_app.i18n", ["pascalprecht.translate"])
 
                     UNAMED_GROUP_NAME_TAG: "Not grouped",
                     DISTRIBUTOR_TAG: "Primary Group",
-                    
+
                 },
 
                 people: {
@@ -363,7 +363,7 @@ angular.module("this_app.i18n", ["pascalprecht.translate"])
                     COPY_TO_CLIPBOARD: "Copy to clipboard",
                     PREVIEW: "Preview",
                     URL_LINK: "Url",
-                    DEMO_DEPLOY_TO: "PPMessage has deploy to this website for preview",
+                    DEMO_DEPLOY_TO: "Visitor Capture Live Chat has deploy to this website for preview",
                     COPY_CODE_TO_BODY: "Copy the code below, and paste between <body></body>"
                 },
 
@@ -372,7 +372,7 @@ angular.module("this_app.i18n", ["pascalprecht.translate"])
                     TEAM_NAME: "Team name",
                     SAVE: "Save"
                 }
-                
+
             },
 
             statistics: {
@@ -393,7 +393,7 @@ angular.module("this_app.i18n", ["pascalprecht.translate"])
                     HISTORY_MESSAGE_TAG: 'Message',
                     MAX_RANGE_TAG: 'Less than 30 days',
                 },
-                
+
                 historymessages: {
                     MESSAGE_FILE_TYPE_TAG: 'File',
                     MESSAGE_IMAGE_TYPE_TAG: 'Image',
@@ -405,7 +405,7 @@ angular.module("this_app.i18n", ["pascalprecht.translate"])
                     EMPTY_LIST_TAG: "Empty",
                     MESSAGES: "Messages",
                     MESSAGES_PREVIEW: "Messages preview",
-                    
+
                 },
 
                 messageroute:  {
@@ -429,7 +429,7 @@ angular.module("this_app.i18n", ["pascalprecht.translate"])
                     SAVE_TAG: "Save",
                     FORGET_PASSWORD_TAG: "Forget password"
                 },
-                
+
             }
 
         },
@@ -444,7 +444,7 @@ angular.module("this_app.i18n", ["pascalprecht.translate"])
                 DELETE_TEAM_CANCEL_TAG: "取消删除",
                 DELETE_TEAM_NOTE_DATA_TAG: "删除，意味着您将失去所有与该团队有关的数据.",
                 DELETE_TEAM_NOTE_MEAN_TAG: "请确保您充分了解该操作的意义?",
-                
+
                 PARAMS_MISS_TAG: "参数缺失",
                 FULLNAME_ERROR_TAG: "姓名缺失或长度超过限制",
                 NO_FIRSTNAME_TAG: "请输入您的名字",
@@ -474,7 +474,7 @@ angular.module("this_app.i18n", ["pascalprecht.translate"])
                 SIGNUP_TAG: "创建新用户",
                 SIGNIN_TAG: "用户登录",
                 RESET_PASSWORD_TAG: "重设用户密码",
-                
+
                 CREATE_TEAM_TAG: "创建客服团队",
                 START_TAG: "开始使用",
                 FULLNAME_TAG: "真实姓名",
@@ -548,7 +548,7 @@ angular.module("this_app.i18n", ["pascalprecht.translate"])
                     DECEMBER_TAG:"十二月",
                 },
                 /*按钮文本定义结束*/
-            },//calendar   
+            },//calendar
 
             main: {
                 LEARN_MORE_TAG: "了解更多",
@@ -559,7 +559,7 @@ angular.module("this_app.i18n", ["pascalprecht.translate"])
             },
 
             signup: {
-                
+
             },
 
             createaccount: {
@@ -580,7 +580,7 @@ angular.module("this_app.i18n", ["pascalprecht.translate"])
                 LOGIN_PASSWORD_TAG: "密码",
                 LOGIN_FORGET_PASSWORD_TAG: "忘记密码?",
                 LOGIN_REGISTER_TAG: "注册"
-                
+
             },
 
             changepassword: {
@@ -605,12 +605,12 @@ angular.module("this_app.i18n", ["pascalprecht.translate"])
                     ACCOUT_CONFIG_TAG: "账户设置",
                     ADVANCED_CONFIG_TAG: "高级设置"
                 },
-                
+
                 profile: {
                     UPDATE_SUCCESSFULLY_TAG: "更新成功。",
                     UPDATE_FAILED_TAG: "更新失败。",
                 },
-                
+
                 account: {
                     OLDPASSWORD_MISMATCH_TAG: "原密码输入错误",
                     NEWPASSWORD_MISMATCH_TAG: "新密码两次输入不同",
@@ -642,14 +642,14 @@ angular.module("this_app.i18n", ["pascalprecht.translate"])
                 },
 
                 payment: {
-                    
+
                 },
 
                 pwechat: {
-                    
+
                 },
             },
-            
+
             application: {
                 profile: {
                     UPDATE_SUCCESSFULLY_TAG: "更新成功。",
@@ -735,14 +735,14 @@ angular.module("this_app.i18n", ["pascalprecht.translate"])
                     GROUP_DESC: "描述",
                     MODIFY_GROUP: "修改分组",
                     SAVE: "确认修改",
-                    
+
                     ADMIN_USER_TAG: "团队管理员",
                     SERVICE_USER_TAG: "客服人员",
 
                     UNAMED_GROUP_NAME_TAG: "未分组",
                     DISTRIBUTOR_TAG: "首选组",
                 },
-                
+
                people: {
                    SEND_INVITATION_EMAIL_SUCCESSFULLY_TAG: "发送邀请邮件成功。",
                    SEND_INVITATION_EMAIL_FAILED_TAG: "发送邀请邮件失败。",
@@ -795,7 +795,7 @@ angular.module("this_app.i18n", ["pascalprecht.translate"])
                     TEAM_NAME: "团队名称",
                     SAVE: "确认修改"
                 }
-                
+
             },
 
             statistics: {
@@ -828,7 +828,7 @@ angular.module("this_app.i18n", ["pascalprecht.translate"])
                     EMPTY_LIST_TAG: "没有任何匹配的会话",
                     MESSAGES: "条消息",
                     MESSAGES_PREVIEW: "消息预览",
-                    
+
                 },
 
                 messageroute: {
@@ -852,7 +852,7 @@ angular.module("this_app.i18n", ["pascalprecht.translate"])
                     SAVE_TAG: "确认修改",
                     FORGET_PASSWORD_TAG: "忘记密码"
                 },
-                
+
             }
 
         },

@@ -26,7 +26,7 @@ ppmessageModule.config([
             USEREMAIL_TAG: "User email",
             PASSWORD_TAG: "Password",
             LOGIN_CANCEL_TAG: "Cancel",
-            
+
             serverList: {
                 SERVER_LIST: "Servers"
             },
@@ -39,8 +39,8 @@ ppmessageModule.config([
                 SERVER_PORT: "Port",
                 SERVER_NAME_NOTE: "Any name",
                 SERVER_PROTOCOL_NOTE: "http:// or https://",
-                SERVER_HOST_NOTE: "192.168.0.1, ppmessage.cn",
-                SERVER_PORT_NOTE: "80, 8080",   
+                SERVER_HOST_NOTE: "192.168.0.1, visitorcapture.com",
+                SERVER_PORT_NOTE: "80, 8080",
                 USE_HTTPS_PROTOCOL: "Use https protocol",
                 SET_DEFAULT_SERVER_TAG: "Set as default server"
             },
@@ -390,18 +390,18 @@ ppmessageModule.config([
                 NOTIFICATION_CHANGE_SUCCESS: "Notification changed successfully",
                 NOTIFICATION_CHANGE_FAIL: "Fail to change Notification",
                 NOTIFICATION_TYPE: "Notification Type",
-                
+
                 ONLINE: "OnLine",
                 OFFLINE: "Offline",
-                
+
                 NO_AVAILABLE_CONTACT: "No available contacts",
                 NO_AVAILABLE_GROUP: "No available groups",
                 NO_AVAILABLE_SERVANT: "No available service users for this group",
-                
+
                 CANT_GET_MORE_HISTORY_MESSAGES: "Can't get more history messages",
                 CANT_GET_MORE_CONVERSATIONS: "Can't get more conversations",
                 CANT_REFRESH_CONVERSATIONS: "Can't refresh conversations",
-                
+
                 TITLE_FILE:        "File Message",
                 TITLE_AUDIO:       "Audio Message",
                 TITLE_TEXT:        "Text Message",
@@ -419,7 +419,7 @@ ppmessageModule.config([
                 TITLE_UNKNOWN:            "Unknown Message",
 
                 CANT_OPEN_FILE: "Can't open this file",
-                
+
                 SHOW_BADGE: "Show Badge",
                 SHOW_BADGE_NOTE: "When message arrives, show unread count in App icon",
                 MUTE_NOTIFICATION: "Mute Notification",
@@ -430,7 +430,7 @@ ppmessageModule.config([
                 MUTE_OTHER_MOBILE_DEVICE_NOTE: "When login in both Web and mobile device, let mobile device not show notification",
                 IS_DISTRIBUTOR_USER: "Set as Distributor",
                 IS_DISTRIBUTOR_USER_NOTE: "A distributor can receive messages from any portal user and assign conversations to other service user",
-                
+
                 //notification-body
                 BODY_REQUEST_JOIN_OG: "request to join organization",
                 BODY_APPROVE_JOIN_OG: "Approve to join organization",
@@ -467,7 +467,7 @@ ppmessageModule.config([
                 SLACK: "Slack",
                 EVERNOTE: "Evernote",
                 MESSAGE_CONTENT: "Message Content",
-                
+
                 ASSIGN_TO: "Conversation is assigned to: ",
 
                 CANCEL: "Cancel",
@@ -481,7 +481,7 @@ ppmessageModule.config([
 
                 SEARCH: "Search",
                 YESTERDAY: "Yesterday",
-                
+
                 UPDATE_TITLE: "A new version is avaliable!",
                 UPDATE_CONTENT1: "Current version is ",
                 UPDATE_CONTENT2: ", do you want to upgrade to the latest version",
@@ -489,14 +489,14 @@ ppmessageModule.config([
 
                 UPDATE_FAILED: "Update failed",
                 UPDATE_SUCCESS: "Update successfully",
-                
+
                 NO_RECENT_MESSAGE: "No recent message",
                 NO_MORE_HISTORY_MESSAGES: "No more history messages",
-                
+
                 CHECKING_FILE: "Checking file ...",
                 UPLOADING_FILE: "Uploading file ...",
                 SENDING: "Sending Message ...",
-                CANCELED: "Canceled",                
+                CANCELED: "Canceled",
                 TYPING: " is typing ",
 
                 CONVERSATIONS: "Conversations",
@@ -518,7 +518,7 @@ ppmessageModule.config([
                 ADD_MEMBER: "Add Member",
                 ADD_BY_CONTACT: "Add by Contact",
                 ADD_BY_GROUP: "Add by Group",
-                
+
                 READY: "Ready",
                 BUSY: "Busy",
                 REST: "Rest",
@@ -535,7 +535,7 @@ ppmessageModule.config([
             USEREMAIL_TAG: "邮箱",
             PASSWORD_TAG: "密码",
             LOGIN_CANCEL_TAG: "取消",
-            
+
             serverList: {
                 SERVER_LIST: "服务器列表"
             },
@@ -548,7 +548,7 @@ ppmessageModule.config([
                 SERVER_PORT: "端口",
                 SERVER_NAME_NOTE: "任意名称",
                 SERVER_PROTOCOL_NOTE: "http:// 或 https://",
-                SERVER_HOST_NOTE: "192.168.0.1，ppmessage.cn",
+                SERVER_HOST_NOTE: "192.168.0.1，visitorcapture.com",
                 SERVER_PORT_NOTE: "80，8080",
                 USE_HTTPS_PROTOCOL: "使用 https 协议",
                 SET_DEFAULT_SERVER_TAG: "设为默认服务器"
@@ -904,18 +904,18 @@ ppmessageModule.config([
                 NOTIFICATION_CHANGE_SUCCESS: "成功变更推送方式",
                 NOTIFICATION_CHANGE_FAIL: "变更推送方式失败",
                 NOTIFICATION_TYPE: "推送方式",
-                
+
                 ONLINE: "在线",
                 OFFLINE: "离线",
 
                 NO_AVAILABLE_CONTACT: "没有可添加的联系人",
                 NO_AVAILABLE_GROUP: "没有可用的组",
                 NO_AVAILABLE_SERVANT: "该组没有可用的客服",
-                
+
                 CANT_GET_MORE_HISTORY_MESSAGES: "无法获取更多历史消息",
                 CANT_GET_MORE_CONVERSATIONS: "无法获取更多对话",
                 CANT_REFRESH_CONVERSATIONS: "无法刷新对话",
-                
+
                 TITLE_FILE:        "文件消息",
                 TITLE_AUDIO:       "语音消息",
                 TITLE_TEXT:        "文本消息",
@@ -933,7 +933,7 @@ ppmessageModule.config([
                 TITLE_UNKNOWN:            "未知消息",
 
                 CANT_OPEN_FILE:        "不能打开此文件",
-                
+
                 SHOW_BADGE: "显示未读消息数",
                 SHOW_BADGE_NOTE: "新消息到达时，在应用图标上显示未读消息数",
                 MUTE_NOTIFICATION: "不显示通知",
@@ -980,7 +980,7 @@ ppmessageModule.config([
                 SLACK: "Slack",
                 EVERNOTE: "印象笔记",
                 MESSAGE_CONTENT: "消息内容",
-                
+
                 ASSIGN_TO: "对话分配给： ",
 
                 CANCEL: "取消",
@@ -1004,13 +1004,13 @@ ppmessageModule.config([
 
                 NO_RECENT_MESSAGE: "没有最近消息",
                 NO_MORE_HISTORY_MESSAGES: "没有更多的历史消息",
-                
+
                 CHECKING_FILE: "检查文件 ...",
                 UPLOADING_FILE: "上传文件 ...",
                 SENDING: "发送消息 ...",
-                CANCELED: "已取消",                
+                CANCELED: "已取消",
                 TYPING: "正在输入 ",
-                
+
                 CONVERSATIONS: "对话",
                 CONTACTS: " 联系人",
                 SELECT_APP: "选择应用",
